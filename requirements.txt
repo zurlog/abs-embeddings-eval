@@ -1,0 +1,9 @@
+numpy
+pandas
+memory-profiler
+scikit-learn
+torch
+transformers
+datasets
+matplotlib
+plotly
