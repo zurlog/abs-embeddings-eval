@@ -51,11 +51,10 @@ Files in `data/`:
 ## **3D Visualization** 
 ###### Dataset Interactive Visualization through [Tensorflow Embedding Projector](https://projector.tensorflow.org/?config=https://gist.githubusercontent.com/zurlog/cc320ae6380d8ca5914aa0773a2f3034/raw/3a248d41fc265f0729e4e57cd3886da37714e368/projector_config.json).
 <p align="center">
-  <img src=viz_preview.PNG alt="Embeddings 3D Visualization" width="400"/>
+  <img src=viz_preview.PNG alt="Embeddings 3D Visualization" width="500"/>
 </p>
 
 
-<br>
 <br>
 
 ## **Acknowledgments** 
