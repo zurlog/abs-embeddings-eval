@@ -55,8 +55,6 @@ Files in `data/`:
 </p>
 
 
-<br>
-
 ## **Acknowledgments** 
 *References, Inspiration, Code Snippets, etc.*
 
