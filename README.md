@@ -4,6 +4,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Issues][issues-shield]][issues-url]
 
+
 ### **Data and Code for the paper:**
 
 *Abstracts Embeddings Evaluation: A Case Study of Artificial Intelligence and Medical Imaging for the COVID-19 Infection*
@@ -29,24 +30,25 @@ cd abs-embeddings-eval
 pip install -e .
 ```
 
-## **Content**
+## **Contents**
 
 Notebooks in `scripts/`: 
-- `Embeddings_Extraction`: compute the abstracts embeddings from 15 BERT models.   
--  `Embeddings_Comparison_Modality`: metrics calculations in the prediction of the imaging modality employed. 
--  `Embeddings_Comparison_Task`: metrics calculations in the prediction of the clinical task. 
--  `Setup`: dependencies and utility functions.
+- `Embeddings_Extraction`: Compute the abstracts embeddings from 15 BERT models. ㅤㅤㅤㅤ [<img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=fff&style=flat" alt="Kaggle Badge">](https://www.kaggle.com/code/zurlog/abstracts-embeddings-extraction)
+-  `Embeddings_Comparison_Modality`: Metrics calculations in the prediction of the imaging modality employed. 
+-  `Embeddings_Comparison_Task`: Metrics calculations in the prediction of the clinical task. 
+-  `Setup`: Dependencies and utility functions.
 
 Files in `results/`:
-- `Modality_accuracy.csv` and `Modality_balanced_acc.csv` : results of the imaging modality prediction comparison.
--  `Task_(primary)_accuracy.csv` and `Task_(primary_balanced_acc.csv` : results of the clinical task prediction comparison.
--  📁 `embeddings`: pre-computed vectors stored as serialized *Pandas Series*. 
+- `Modality_accuracy.csv` and `Modality_balanced_acc.csv` : Results of the imaging modality prediction comparison.
+-  `Task_(primary)_accuracy.csv` and `Task_(primary_balanced_acc.csv` : Results of the clinical task prediction comparison.
+-  📁 `embeddings`: Pre-computed vectors stored as serialized *Pandas Series*. 
 
 Files in `data/`: 
 - `subset_wlabels.csv` : 560 records subset with gold labels.
 
 <br>
 <br>
+
 
 ## Acknowledgments
 *References, Inspiration, Code Snippets, etc.*
@@ -67,3 +69,5 @@ Files in `data/`:
 [license-url]: https://github.com/zurlog/dpc-covid19/blob/master/LICENSE.txt
 [jupyter-shield]: https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter
 [jupyter-url]: https://jupyter.org/try
+[kaggle-shield]:(https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=fff&style=flat)
+[kaggle-url]:https://www.kaggle.com/code/zurlog/abstracts-embeddings-extraction
