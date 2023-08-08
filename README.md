@@ -22,7 +22,7 @@ The primary objective of this study is to assess the adequacy of commonly employ
 To accomplish this, we introduce a unique and independent test set specifically focused on the medical imaging domain. This novel dataset serves as a valuable resource for the extrinsic evaluation of contextual embeddings, comprising realistic text classification tasks based on 560 gold labels referred to two target variables: the clinical task and imaging modality.
 
 
-## Installation
+## **Installation**
 This project depends on Python ($\geq$ 3.7). The project script can be installed via `pip install .` in the project root, i.e.:
 ```
 git clone https://github.com/zurlog/abs-embeddings-eval
@@ -47,14 +47,19 @@ Files in `data/`:
 - `subset_wlabels.csv` : 560 records subset with gold labels.
 
 <br>
+
+## **3D Visualization** 
+###### Dataset Interactive Visualization through [Tensorflow Embedding Projector](https://projector.tensorflow.org/?config=https://gist.githubusercontent.com/zurlog/cc320ae6380d8ca5914aa0773a2f3034/raw/3a248d41fc265f0729e4e57cd3886da37714e368/projector_config.json).
+![Embeddings 3D Visualization](viz_preview.PNG) 
+
+<br>
 <br>
 
-
-## Acknowledgments
+## **Acknowledgments** 
 *References, Inspiration, Code Snippets, etc.*
 
 - Classification Framework from [Born et al. (2021). **On the role of artificial intelligence in medical imaging of COVID-19**. Patterns (New York, N.Y.), 2(6), 100269.](https://pubmed.ncbi.nlm.nih.gov/33969323/)
-- Labels from [*Detailed results of systematic meta-analysis*](https://www.cell.com/cms/10.1016/j.patter.2021.100269/attachment/e921e84c-3d7f-4183-bb6c-d42f5b59f3d9/mmc2.csv) `[Direct Link]`
+- Labels from *Detailed results of systematic meta-analysis* [`[Direct Link]`](https://www.cell.com/cms/10.1016/j.patter.2021.100269/attachment/e921e84c-3d7f-4183-bb6c-d42f5b59f3d9/mmc2.csv)
 - Inspiration from [González-Márquez et al. (2023). **The Landscape of Biomedical Research**. bioRxiv, 2023.04.10.536208.](https://www.biorxiv.org/content/10.1101/2023.04.10.536208v2)
 
 <!-- MARKDOWN LINKS & IMAGES -->
