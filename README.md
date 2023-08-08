@@ -33,7 +33,7 @@ pip install -e .
 ## **Contents**
 
 Notebooks in `scripts/`: 
-- `Embeddings_Extraction`: Compute the abstracts embeddings from 15 BERT models. ㅤㅤㅤㅤ [<img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=fff&style=flat" alt="Kaggle Badge">](https://www.kaggle.com/code/zurlog/abstracts-embeddings-extraction)
+- `Embeddings_Extraction`: Compute the abstracts embeddings from 15 BERT models. ㅤ [<img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=fff&style=flat" alt="Kaggle Badge">](https://www.kaggle.com/code/zurlog/abstracts-embeddings-extraction)
 -  `Embeddings_Comparison_Modality`: Metrics calculations in the prediction of the imaging modality employed. 
 -  `Embeddings_Comparison_Task`: Metrics calculations in the prediction of the clinical task. 
 -  `Setup`: Dependencies and utility functions.
