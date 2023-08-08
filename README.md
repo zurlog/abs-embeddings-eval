@@ -11,7 +11,7 @@
 a pre-print paper by **Zurlo, G. and Ronchieri, E. (2023)**
 
 ***
-<br>
+
 
 ## **Summary**
 The SARS-CoV-2 pandemic triggered unprecedented research efforts across various disciplines. Notably, the field of artificial intelligence (AI) applied to medical imaging has been prominently involved. Given the scarcity of resources in facing this devious disease, AI-based tools have emerged as potentially valuable assets to be harnessed. Natural Language Processing (NLP) offers a means to expedite the analysis of scientific articles on a larger scale, and has long been recognized as a solution to mitigate information overload in biomedical research. Since the beginning of the pandemic, the natural language processing (NLP) community has been consistently addressing the needs of domain experts by applying cutting-edge methods to enhance comprehension and knowledge discovery.
