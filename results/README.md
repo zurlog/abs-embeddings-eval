@@ -3,7 +3,7 @@
 
 ## Quality Metrics for the Embeddings (Modality Prediction)
 10-fold kNN Classification Accuracy and Balanced Accuracy. \
-**Hyperparameters:** `k = 11, weights = distance, distance = cosine`.
+**Hyperparameters:** `k = 13, weights = distance, distance = cosine`.
 
 | **Model**            | **Accuracy (%)** |      |      | **Balanced Accuracy (%)** |      |      |
 |----------------------|------------------|------|------|--------------------------|------|------|
