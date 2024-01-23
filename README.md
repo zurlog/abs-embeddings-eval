@@ -7,9 +7,7 @@
 
 ### **Data and Code for the paper:**
 
-*Abstracts Embeddings Evaluation: A Case Study of Artificial Intelligence and Medical Imaging for the COVID-19 Infection*
-<br>
-a pre-print paper by **Zurlo, G. and Ronchieri, E. (2023)**
+*Zurlo, G., Ronchieri, E. (2024). Abstracts Embeddings Evaluation: A Case Study of Artificial Intelligence and Medical Imaging for the COVID-19 Infection. In: Foresti, G.L., Fusiello, A., Hancock, E. (eds) Image Analysis and Processing - ICIAP 2023 Workshops. ICIAP 2023. Lecture Notes in Computer Science, vol 14365. Springer, Cham. https://doi.org/10.1007/978-3-031-51023-6_18*
 
 ***
 
