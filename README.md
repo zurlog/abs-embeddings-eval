@@ -3,6 +3,9 @@
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Issues][issues-shield]][issues-url]
+[![DOI](https://zenodo.org/badge/675144631.svg)](https://zenodo.org/doi/10.5281/zenodo.13336504)
+
+
 
 
 ### **Data and Code for the paper:**
